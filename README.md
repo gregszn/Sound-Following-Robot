@@ -81,9 +81,10 @@ The project also required troubleshooting PCB connections and soldering quality 
 
 ### PCB and Robotic Car
 
-![PCB Assembly](pcb1.jpg)
 
-![Robotic Car](pcb2.jpg)
+<img src="pcb1.jpg" width="250">
+
+<img src="pcb2.jpg" width="250">
   
 
 ## Results
