@@ -80,9 +80,9 @@ The project also required troubleshooting PCB connections and soldering quality 
 ## Hardware Implementation
 
 
-<img src="pcb1.jpg" width="150">
+<img src="pcb1.jpg" width="200">
 
-<img src="pcb2.jpg" width="150">
+<img src="pcb2.jpg" width="200">
 
 
 ## Results
