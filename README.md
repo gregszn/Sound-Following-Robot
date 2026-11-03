@@ -77,6 +77,15 @@ These experiments helped us better understand how the robot's movement depended 
 
 The project also required troubleshooting PCB connections and soldering quality to ensure reliable hardware operation.
 
+## Hardware Implementation
+
+### PCB and Robotic Car
+
+![PCB Assembly](pcb1.jpg)
+
+![Robotic Car](pcb2.jpg)
+  
+
 ## Results
 
 The completed robot demonstrated the ability to detect sound using two microphones and control its movement based on the processed signals.
