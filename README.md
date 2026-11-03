@@ -79,13 +79,11 @@ The project also required troubleshooting PCB connections and soldering quality 
 
 ## Hardware Implementation
 
-### PCB and Robotic Car
 
+<img src="pcb1.jpg" width="150">
 
-<img src="pcb1.jpg" width="250">
+<img src="pcb2.jpg" width="150">
 
-<img src="pcb2.jpg" width="250">
-  
 
 ## Results
 
